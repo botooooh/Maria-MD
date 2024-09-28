@@ -2,18 +2,18 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "919931122319"
-global.ownername = "Ayush pandey"
+global.ownernomer = "2250151191073"
+global.ownername = "🗿.ᚽᐯᚣᚻₛₖᵤₗₗ."
 global.ytname = "YT: AyushBotz.inc"
 global.socialm = "GitHub: Ayushpandey023"
-global.location = "Indian"
+global.location = "Abidjan"
 
-global.ownernumber = '919931122319'  //creator number
-global.ownername = 'Ayush' //owner name
+global.ownernumber = '2250151191073'  //creator number
+global.ownername = '🗿.ᚽᐯᚣᚻₛₖᵤₗₗ.' //owner name
 global.botname = '𝐌𝐀𝐑𝐈𝐀-𝐌𝐃' //name of the bot
 
 //sticker details
-global.stickername = '💙𓆩‎✘AʏᴜSʜ✘𓆪_✰'
+global.stickername = '🗿.ᚽᐯᚣᚻₛₖᵤₗₗ.✰'
 global.packname = 'Sticker By'
 global.author = 'Maria Bot'
 //console view/theme
@@ -33,7 +33,7 @@ global.autorecordtype = false //auto typing + recording
 global.autoread = true //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = true //auto block +92 
-global.autoread_status = true //auto view status/story
+global.autoread_status = false //auto view status/story
 
 
 
